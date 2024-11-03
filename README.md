@@ -42,7 +42,7 @@ pm.test("Response contains required properties", function () {
 });
 ```
 --------------------------------------------------------------------------
-How to run test in Postman : 
+**How to run test in Postman**: 
 
  Clone repository :
  ``` git clone https://github.com/sehsune/PROJECT-2--APi-testing-with-Postman.git```

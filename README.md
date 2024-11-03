@@ -42,6 +42,13 @@ pm.test("Response contains required properties", function () {
 });
 ```
 --------------------------------------------------------------------------
+- Summary raport preview
+  
+![raport1](https://github.com/user-attachments/assets/1d6f2f23-20d6-44d4-8bbc-c30cc9190684)
+![raport2](https://github.com/user-attachments/assets/cb6d520c-e3d7-4ade-a57e-907610ee0a88)
+
+
+--------------------------------------------------------------------------
 **How to run test in Postman**: 
 
  Clone repository :

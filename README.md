@@ -41,8 +41,16 @@ pm.test("Response contains required properties", function () {
     pm.expect(responseBody.booking).to.have.property('bookingdates');
 });
 ```
+--------------------------------------------------------------------------
+How to run test in Postman : 
 
+ Clone repository :
+ ``` git clone https://github.com/sehsune/PROJECT-2--APi-testing-with-Postman.git```
 
+1. Dowload and instal Postman from https://www.postman.com/downloads/
+2. Open Postman
+3. Use  *Import* in *My Workspace* tab an select postman collection - **Booking API.postman_collection.json**
+4. Run the **Booking API.postman_collection.json** collection 
 
 
 

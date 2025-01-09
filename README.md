@@ -1,4 +1,4 @@
-# PROJECT_2_APi-testing-with-Postman
+# PROJECT_2_API_testing_with_Postman
 
 The goal of a given project is to test the [Restful-Booker](https://restful-booker.herokuapp.com/) API in accordance with the documentation.   
 
